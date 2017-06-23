@@ -15,9 +15,6 @@ Window {
             text: "Rotation"
             onClicked:{
                 mylight.run = true
-
-
-
             }
         }
 
@@ -26,9 +23,6 @@ Window {
             text: "transition"
             onClicked: {
                 mylight.xyr = true
-
-
-
             }
         }
         Button{
@@ -36,9 +30,6 @@ Window {
             text: "Scale"
             onClicked:{
                 mylight.scaler =true
-
-
-
             }
         }
         Button{
@@ -46,9 +37,6 @@ Window {
             text: "opacity"
             onClicked:{
                 mylight.opacityr = true
-
-
-
             }
         }
 //        Button{
@@ -66,5 +54,4 @@ Window {
         x: 100
         y: 100
     }
-
 }

@@ -5,7 +5,7 @@ Rectangle{
     id: bulb
     width: 90
     height: 90
-    color: "grey"
+    color: "green"
     border.color: "black"
     border.width: 1
 
